@@ -1,10 +1,11 @@
-### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kseki&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseki&layout=compact" />
-</a>
+## Stats
+<div align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseki&layout=compact" />
+  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kseki&count_private=true&show_icons=true" />
+</div>
+<div align="left">
+  <img alt="Wakatime Stats" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseki" />
+</ div>
 
 <!--
 **kseki/kseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
