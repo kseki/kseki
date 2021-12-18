@@ -1,10 +1,16 @@
 ## Stats
 <div align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseki&layout=compact&langs_count=8&theme=tokyonight" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kseki&count_private=true&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseki&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kseki&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
 </div>
 <div align="left">
-  <img alt="Wakatime Stats" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseki&theme=tokyonight" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Wakatime Stats" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseki&theme=tokyonight" />
+  </a>
 </ div>
 
 <!--
