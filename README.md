@@ -9,9 +9,10 @@
 </div>
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Wakatime Stats" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseki&theme=tokyonight" />
+    <img alt="Wakatime Stats" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseki&theme=tokyonight&layout=compact&v=2" />
   </a>
 </ div>
+
 
 <!--
 **kseki/kseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
