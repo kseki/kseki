@@ -7,11 +7,13 @@
     <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kseki&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
 </div>
-<div align="left">
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Wakatime Stats" height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseki&theme=tokyonight" />
+    <img alt="Wakatime Stats" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kseki&theme=tokyonight&layout=compact&v=2" />
   </a>
+  <a href="https://wakatime.com/@f7b99cb4-de49-471c-b858-6894c442189a"><img src="https://wakatime.com/badge/user/f7b99cb4-de49-471c-b858-6894c442189a.svg" alt="Total time coded since Aug 20 2015" /></a>
 </ div>
+
 
 <!--
 **kseki/kseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
